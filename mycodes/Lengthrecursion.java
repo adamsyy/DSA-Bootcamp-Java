@@ -9,7 +9,7 @@ public class Lengthrecursion{
     private static int recLen(String str)
     {
  
-        // if we reach at the end of the string
+        // if we reach at the end   of the string
         if (str.equals(""))
             return 0;
         else
