@@ -14,6 +14,6 @@ System.out.println(x);
             int d=n%10;
             s+=d;
            return findd(n/10,s);
-        }
+        }   
     }
 }
