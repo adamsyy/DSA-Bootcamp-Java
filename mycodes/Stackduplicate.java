@@ -14,6 +14,7 @@ public class Stackduplicate {
                   while(st.peek()!='('){
                       st.pop();
                   }
+                 
               }
               System.out.println("false");  }
       }
@@ -22,3 +23,5 @@ public class Stackduplicate {
         System.out.println(st.peek());
     }
 }
+
+
